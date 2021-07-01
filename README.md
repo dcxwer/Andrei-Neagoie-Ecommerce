@@ -5,3 +5,5 @@ to course = [Udemy Course](https://www.udemy.com/course/complete-react-developer
     <HTML>
     <BODY>
       <p>Hello</P>
+      
+      ![Koala Bear](003.jpg)
