@@ -8,3 +8,5 @@ to course = [Udemy Course](https://www.udemy.com/course/complete-react-developer
       
  
  ![Koala Bear](003.jpg) =100x100
+ <img src="./003.jpg" width="200" height="200" />
+
