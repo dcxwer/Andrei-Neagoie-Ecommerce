@@ -7,4 +7,4 @@ to course = [Udemy Course](https://www.udemy.com/course/complete-react-developer
       <p>Hello</P>
       
  
- ![Koala Bear](003.jpg)
+ ![Koala Bear](003.jpg) =100x100
